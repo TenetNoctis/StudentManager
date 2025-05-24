@@ -6,7 +6,7 @@ Student ID: CYX27775
 
 Introduction
 ============
-This will allows school administrators to keep track of Students and their grades through a simple graphical user interface built in Java using the Swing framework
+This will allow school administrators to keep track of Students and their grades through a simple graphical user interface built in Java using the Swing framework
 
 Compilation
 ===========
